@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VladVStoliaryk
 - 👀 I’m interested in cooking, PC games , hardware and hi-tech
-- 🌱 I’m currently learning Selenium , REST & SOAP
+- 🌱 I’m currently learning Cypress
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - https://t.me/banana_tigre
 
